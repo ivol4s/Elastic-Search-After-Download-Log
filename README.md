@@ -17,3 +17,5 @@ TO DO: <br>
         - Reduce PAGE_SIZE <br>
         - Bulk write to file  <br>
         - get better hardware <br>
+ <br>
+ This script SHOULD work if you can use the Elastic Dev Tools Console and run a query there. So check first.<br>
